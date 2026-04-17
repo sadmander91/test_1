@@ -1,13 +1,3 @@
-array = "hello"
-
-arr = array.replace(array[1], 'y')
-
-print(array)
-print(arr)
-
-
-
-
 # # remove existing remote
 # git remote remove origin
 
